@@ -49,8 +49,8 @@ To set up and run this project locally, you will need Node.js, Expo CLI, and acc
 ### 2. Clone the Repository
 
 ```bash
-git clone <your_github_repo_url>
-cd YogaAppExpo # Or your project directory name
+git clone https://github.com/Danh-coder/YogaCustomerApp.git
+cd YogaCustomerApp # Or your project directory name
 ```
 
 ### 3. Install Dependencies
